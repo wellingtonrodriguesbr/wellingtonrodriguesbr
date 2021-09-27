@@ -1,15 +1,14 @@
 ### Olá, seja muito bem-vindo(a) ao meu GitHub! 👋
 
-- 🤞 Estou em processo de migração de carreira para área de desenvolvimento front-end.
+- 🤞 Sou um cara que se apaixonou por desenvolvimento front-end.
 - 🧠 Atualmente focado na linguagem de programação JavaScript e a biblioteca React.
-- ⚡ " O sucesso não é algo que você faz ocasionalmente e sim o que você faz constatemente, tenha disciplina. "
+- ⚡ Estudando NextJs e TypeScript.
 
 ##
 
  <div>
   <a href="https://github.com/wellingtonrodriguesbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellingtonrodriguesbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonrodriguesbr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellingtonrodriguesbr&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
 </div>
   
  <div style="display: inline_block"><br>
