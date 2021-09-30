@@ -1,8 +1,8 @@
 ### Olá, seja muito bem-vindo(a) ao meu GitHub! 👋
 
-- 🤞 Sou um cara que se apaixonou por desenvolvimento front-end.
-- 🧠 Atualmente focado na linguagem de programação JavaScript e a biblioteca React.
-- ⚡ Estudando NextJs e TypeScript.
+- 🤞 Sou um cara que se apaixonou por programação web.
+- 🧠 Atualmente focado na linguagem de programação JavaScript e NodeJs.
+- ⚡ Tenho muito interesse em aprender React e TypeScript.
 
 ##
 
