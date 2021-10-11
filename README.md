@@ -1,7 +1,7 @@
 ### Olá, seja muito bem-vindo(a) ao meu GitHub! 👋
-
 - 🤞 Sou um cara que se apaixonou por programação web.
 - 🧠 Atualmente focado na linguagem de programação JavaScript e a biblioteca React.
+- 🤓 Entusiasta a NextJs.
 
 ##
 
