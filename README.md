@@ -1,7 +1,6 @@
 ### Olá, seja muito bem-vindo(a) ao meu GitHub! 👋
 - 🤞 Sou um cara que se apaixonou por programação web.
-- 🧠 Atualmente focado na linguagem de programação JavaScript e a biblioteca React.
-- 🤓 Entusiasta a NextJs.
+- 🧠 Entusiasta das melhores tecnologias web.
 
 ##
 
@@ -20,7 +19,7 @@
   
 ##
  
-### 👇 Aqui estão meus contatos, bora bater um papo, trocar experiências, se conhecer melhor.
+### 👇 Aqui estão meus contatos:
  
 <div> 
   <a href="https://instagram.com/tonrdrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
