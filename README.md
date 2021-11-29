@@ -1,5 +1,5 @@
 ### Olá, seja muito bem-vindo(a) ao meu GitHub! 👋
-- 🤞 Sou um cara que se apaixonou por programação web.
+- 🤞 Sou um cara que se apaixonou por programação.
 - 🧠 Entusiasta das melhores tecnologias web.
 
 ##
