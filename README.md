@@ -1,6 +1,6 @@
-### Olá, seja muito bem-vindo(a) ao meu GitHub! 👋
-- 🤞 Sou um cara que se apaixonou por programação.
-- 🧠 Entusiasta das melhores tecnologias web.
+### Hi 👋
+- 🤞 I'm a guy who fell in love with programming and solving problems with it.
+- 🧠 Enthusiast of the best web technologies
 
 ##
 
