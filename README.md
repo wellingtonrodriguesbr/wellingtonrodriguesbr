@@ -1,6 +1,14 @@
-### Hi 👋
-- 🤞 I'm a guy who fell in love with programming and solving problems with it.
-- 🧠 Enthusiast of the best web technologies
+## Wellington Rodrigues
+<div> 
+  <a href="https://instagram.com/tonrdrigues" target="_blank"><img src="https://img.shields.io/badge/-@tonrdrigues-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:wr_rodrigues@outlook.com.br"><img src="https://img.shields.io/badge/-wr_rodrigues@outlook.com.br-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wellingtonrodriguesbr/" target="_blank"><img src="https://img.shields.io/badge/-Wellington Rodrigues-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+</br>
+
+I'm a guy who fell in love with programming and solving problems with it.
+</br>
+Enthusiast of the best web technologies
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
   
@@ -13,10 +21,4 @@
   <img align="center" alt="Ton-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
   
-##
  
-<div> 
-  <a href="https://instagram.com/tonrdrigues" target="_blank"><img src="https://img.shields.io/badge/-@tonrdrigues-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:wr_rodrigues@outlook.com.br"><img src="https://img.shields.io/badge/-wr_rodrigues@outlook.com.br-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wellingtonrodriguesbr/" target="_blank"><img src="https://img.shields.io/badge/-Wellington Rodrigues-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
