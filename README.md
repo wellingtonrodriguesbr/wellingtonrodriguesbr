@@ -3,8 +3,6 @@
 - 🧠 Enthusiast of the best web technologies
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
-
-##
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Ton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
