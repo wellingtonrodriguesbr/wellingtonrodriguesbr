@@ -11,4 +11,6 @@ I'm a guy who fell in love with programming and solving problems with it.
 </br>
 Enthusiast of the best web technologies
 
+In continuous learning in the stacks: JavaScript, TypeScript, React, NextJs and NodeJs.
+
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
