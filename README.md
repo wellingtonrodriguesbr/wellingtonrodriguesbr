@@ -2,9 +2,9 @@
  Frontend Developer <strong>@Gonew.co</strong>
  <br/>
  <br/>
-[![Instagram Badge](https://img.shields.io/badge/-@wellingtonrodriguesbr-1a8cd8?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wellingtonrodriguesbr/)](https://www.instagram.com/wellingtonrodriguesbr/) 
-[![Youtube Badge](https://img.shields.io/badge/-@wellingtonrodriguesbr-1a8cd8?style=flat-square&logo=Youtube&logoColor=white&link=(https://www.youtube.com/channel/UCra3U_RqC8wJ8A7nOP9pRpg))](https://www.youtube.com/channel/UCra3U_RqC8wJ8A7nOP9pRpg)
-[![Linkedin Badge](https://img.shields.io/badge/-wellingtonrodriguesbr-1a8cd8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellingtonrodriguesbr/)](https://www.linkedin.com/in/wellingtonrodriguesbr/)
+[![Instagram Badge](https://img.shields.io/badge/-@wellingtonrodriguesbr-3251A0?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wellingtonrodriguesbr/)](https://www.instagram.com/wellingtonrodriguesbr/) 
+[![Youtube Badge](https://img.shields.io/badge/-@wellingtonrodriguesbr-3251A0?style=flat-square&logo=Youtube&logoColor=white&link=(https://www.youtube.com/channel/UCra3U_RqC8wJ8A7nOP9pRpg))](https://www.youtube.com/channel/UCra3U_RqC8wJ8A7nOP9pRpg)
+[![Linkedin Badge](https://img.shields.io/badge/-wellingtonrodriguesbr-3251A0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellingtonrodriguesbr/)](https://www.linkedin.com/in/wellingtonrodriguesbr/)
 <br/>
  
 
