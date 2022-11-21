@@ -2,7 +2,7 @@
  Frontend Developer <strong>@Gonew.co</strong>
 <div> 
   <a href="https://instagram.com/wellingtonrodriguesbr" target="_blank"><img src="https://img.shields.io/badge/-@wellingtonrodriguesbr-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://instagram.com/wellingtonrodriguesbr" target="_blank"><img src="https://img.shields.io/badge/-@wellingtonrodriguesbr-%231A8CD8?style=for-the-badge&logo=twitter&logoColor=white"></a>
+   <a href="https://twitter.com/tonrodriguesbr" target="_blank"><img src="https://img.shields.io/badge/-@tonrodriguesbr-%231A8CD8?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/wellingtonrodriguesbr/" target="_blank"><img src="https://img.shields.io/badge/-Wellington Rodrigues-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
    <a href="https://www.youtube.com/channel/UCra3U_RqC8wJ8A7nOP9pRpg" target="_blank"><img src="https://img.shields.io/badge/-Canal no Youtube-%23EA2A2A?style=for-the-badge&logo=youtube&logoColor=white"></a> 
 </div>
