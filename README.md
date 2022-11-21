@@ -1,10 +1,12 @@
 # Wellington Rodrigues
  Frontend Developer <strong>@Gonew.co</strong>
  <br/>
+ <br/>
 [![Twitter Badge](https://img.shields.io/badge/-@tonrodriguesbr-1a8cd8?style=flat-square&labelColor=1a8cd8&logo=twitter&logoColor=white&link=https://twitter.com/tonrodriguesbr)](https://twitter.com/tonrodriguesbr) 
-[![Linkedin Badge](https://img.shields.io/badge/-wellingtonrodriguesbr-1a8cd8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellingtonrodriguesbr/)](https://www.linkedin.com/in/wellingtonrodriguesbr/) 
-[![Gmail Badge](https://img.shields.io/badge/-tonrodriguesbr@gmail.com-1a8cd8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tonrodriguesbr@gmail.com)](mailto:tonrodriguesbr@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@wellingtonrodriguesbr-1a8cd8?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wellingtonrodriguesbr/)](https://www.instagram.com/wellingtonrodriguesbr/) 
 [![Youtube Badge](https://img.shields.io/badge/-@wellingtonrodriguesbr-1a8cd8?style=flat-square&logo=Youtube&logoColor=white&link=(https://www.youtube.com/channel/UCra3U_RqC8wJ8A7nOP9pRpg))](https://www.youtube.com/channel/UCra3U_RqC8wJ8A7nOP9pRpg)
+[![Linkedin Badge](https://img.shields.io/badge/-wellingtonrodriguesbr-1a8cd8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellingtonrodriguesbr/)](https://www.linkedin.com/in/wellingtonrodriguesbr/)
+[![Gmail Badge](https://img.shields.io/badge/-tonrodriguesbr@gmail.com-1a8cd8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tonrodriguesbr@gmail.com)](mailto:tonrodriguesbr@gmail.com)
 <br/>
  
 
