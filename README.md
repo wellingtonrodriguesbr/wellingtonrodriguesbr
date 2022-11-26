@@ -8,6 +8,7 @@
 Sou um cara que se apaixonou por programação. Entusiasta das melhores tecnologias web e mobile.
 
 Em constante evolução nas tecnologias: JavaScript, TypeScript, React, React Native, NextJs e NodeJs.
-Também tenho conhecimentos em UI Design.
+<br />
+Também tenho conhecimento em UI Design.
 
 "Nada neste mundo supera a boa e velha persistência. Talento não supera. Nada mais comum do que fracassos talentosos. Gênio não supera. Gênios não reconhecidos é praticamente um clichê. Educação não supera. O mundo está cheio de tolos educados. Persistência e determinação sozinhos são poderosos."
