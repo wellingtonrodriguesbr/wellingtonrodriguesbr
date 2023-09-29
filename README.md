@@ -1,7 +1,5 @@
 ### Olá ✌
 
-Sou um cara que se apaixonou por programação.
-
 Entusiasta das melhores tecnologias web e mobile: JavaScript, TypeScript, React, React Native, NextJs e NodeJs.
 <br />
 Também tenho conhecimento em UI Design.
