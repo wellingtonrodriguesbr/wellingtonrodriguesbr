@@ -1,5 +1,5 @@
 # Wellington Rodrigues
-### Softaware developer @souora
+Software developer @souora
 
 Entusiasta das melhores tecnologias web e mobile: JavaScript, TypeScript, React, React Native, NextJs e NodeJs.
 <br />
