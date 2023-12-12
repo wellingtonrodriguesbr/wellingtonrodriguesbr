@@ -1,5 +1,5 @@
 # Wellington Rodrigues
-Desenvolvedor Fullstack @souora
+Desenvolvedor Front-end @souora
 
 Entusiasta das melhores tecnologias web e mobile: JavaScript, TypeScript, React, React Native, NextJs e NodeJs.
 <br />
