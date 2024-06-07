@@ -4,7 +4,7 @@ Desenvolvedor Full Stack @souora
 Como desenvolvedor full stack, atualmente trabalho com as tecnologias: JavaScript, TypeScript, React.js, Next.js, Node.js, Docker, PostgreSQL, Prisma e TypeORM. 
 <br />
 <br />
-Já trabalhei em empresas do segmento de educação e consultoria, em ambas trabalhando de forma remota ou híbrida. Meu conhecimento sempre foi em torno da linguagem JavaScript, mas atualmente estou me aventurando na liguagem GO e está sendo muito bacana o aprendizado.
+Já trabalhei em empresas do segmento de educação e consultoria, em ambas trabalhando de forma remota ou híbrida. Meu conhecimento sempre foi em torno da linguagem JavaScript, mas recentemente estou me aventurando na liguagem GO e está sendo muito bacana o aprendizado.
 <br />
 <br />
 Também tenho conhecimento em UI Design.
