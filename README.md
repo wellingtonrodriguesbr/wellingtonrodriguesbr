@@ -1,7 +1,7 @@
 # Wellington Rodrigues
 Desenvolvedor Full Stack @souora
 
-Como desenvolvedor full stack, atualmente trabalho com as tecnologias: HTML, CSS, SASS, Tailwindcss, Material UI, Chakra UI, Styled-components, JavaScript, TypeScript, React.js, Next.js, Node.js, Docker, PostgreSQL, Prisma e TypeORM.
+Como desenvolvedor full stack, já trabalhei em Edtech's e Consultoria com as seguintes tecnologias: HTML, CSS, SASS, Tailwindcss, Material UI, Chakra UI, Styled-components, JavaScript, TypeScript, React.js, Next.js, Node.js, Docker, PostgreSQL, Prisma e TypeORM.
 <br />
 <br />
 Também tenho conhecimento em UI Design.
