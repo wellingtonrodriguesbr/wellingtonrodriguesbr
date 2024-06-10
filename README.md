@@ -7,6 +7,5 @@ Como desenvolvedor full stack, atualmente trabalho com as tecnologias: HTML, CSS
 Também tenho conhecimento em UI Design.
 
 [![Linkedin Badge](https://img.shields.io/badge/-wellingtonrodriguesbr-3251A0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellingtonrodriguesbr/)](https://www.linkedin.com/in/wellingtonrodriguesbr/)
+[![Instagram Badge](https://img.shields.io/badge/-@wellingtonrodriguesbr-FF2E42?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wellingtonrodriguesbr/)](https://www.instagram.com/wellingtonrodriguesbr/)
 <br/>
-
-"Nada neste mundo supera a boa e velha persistência. Talento não supera. Nada mais comum do que fracassos talentosos. Gênio não supera. Gênios não reconhecidos é praticamente um clichê. Educação não supera. O mundo está cheio de tolos educados. Persistência e determinação sozinhos são poderosos."
