@@ -1,7 +1,7 @@
 # Wellington Rodrigues
 Desenvolvedor Full Stack @souora
 
-Já trabalhei em Consultoria e Edtech com as seguintes tecnologias: HTML, CSS, SASS, Tailwindcss, Material UI, Chakra UI, Styled-components, JavaScript, TypeScript, React.js, Next.js, Node.js, Docker, PostgreSQL, Prisma e TypeORM. Recentemente, tenho estudado a linguagem Go.
+Já trabalhei em Consultoria e Edtech com as seguintes tecnologias: HTML, CSS, SASS, Tailwindcss, Material UI, Chakra UI, Styled-components, JavaScript, TypeScript, React.js, Next.js, Node.js, Docker, PostgreSQL, Prisma e TypeORM.
 <br />
 <br />
 Antes de migrar para area de desenvolvimento de software em 2021, trabalhei por mais de 7 anos com logística.
